@@ -1,0 +1,22 @@
+# Features
+- User Authentication
+  - Login
+  - Register
+  - Logout
+- User Profile
+  - View Profile
+  - Edit Profile
+  - Change Password
+- Todo
+  - Create Todo
+  - View Todo
+  - Edit Todo
+  - Delete Todo
+  - Search Todo
+  - Filter Todo
+  - Sort Todo
+  - Pagination
+  - Schedule Todo
+  - Share Todo
+  - Todo Notification
+  - Todo List
